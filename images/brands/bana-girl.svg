@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 160" width="400" height="160">
+  <defs>
+    <linearGradient id="bana-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#831843"/>
+      <stop offset="100%" stop-color="#db2777"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" rx="16" fill="url(#bana-grad)"/>
+  <path d="M200 30 C175 30 155 52 155 75 C155 98 200 120 200 120 C200 120 245 98 245 75 C245 52 225 30 200 30 Z" fill="#fbcfe8" opacity="0.85"/>
+  <text x="200" y="142" font-family="'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="2">BANA GIRL</text>
+</svg>
