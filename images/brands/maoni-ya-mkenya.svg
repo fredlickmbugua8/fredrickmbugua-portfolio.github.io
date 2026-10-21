@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 160" width="400" height="160">
+  <defs>
+    <linearGradient id="maoni-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#7f1d1d"/>
+      <stop offset="100%" stop-color="#dc2626"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" rx="16" fill="url(#maoni-grad)"/>
+  <!-- Speech bubble & vote check icon -->
+  <path d="M172 30 L228 30 Q236 30 236 38 L236 68 Q236 76 228 76 L198 76 L184 90 L184 76 L172 76 Q164 76 164 68 L164 38 Q164 30 172 30 Z" fill="#ffffff" opacity="0.95"/>
+  <path d="M180 53 L191 64 L213 42" fill="none" stroke="#16a34a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="200" y="138" font-family="'Segoe UI', Roboto, sans-serif" font-size="17" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="2">MAONI YA MKENYA</text>
+</svg>
